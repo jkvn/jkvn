@@ -36,7 +36,7 @@
 
 ## 📜 My Projects
 
-**CosmeticsBE - https://discord.gg/KjGRGNjjHP**
+**Synclyn - https://github.com/Synclyn**
 
 ## ⭐ Informations
 
