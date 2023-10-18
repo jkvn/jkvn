@@ -41,5 +41,3 @@
 ## ⭐ Informations
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ceepkev77&show_icons=true)
-
-[![Discord](https://discord.c99.nl/widget/theme-1/800775745488158771.png)](#)
