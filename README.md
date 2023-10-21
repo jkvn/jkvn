@@ -1,43 +1,45 @@
-![](https://komarev.com/ghpvc/?username=ceepkev77&color=006bed)
+![Profile Views](https://komarev.com/ghpvc/?username=ceepkev77&color=006bed)
 
-## Hey, my name is <strong>Kevin!</strong>
+# Hey, I'm **Kevin!** 👋
 
-> 16 y/o - PHP & Java Backend Developer | Vienna 🇦🇹
+> 16 years old | PHP & Java Backend Developer | Vienna 🇦🇹
 
-💬 Contact me on discord: ceepkev77
+💬 Connect with me on Discord: ceepkev77
 
-📧 Contact me on e-mail: ceepkev77@gmail.com
+📧 Reach me via email: ceepkev77@gmail.com
 
 ---
 
-## 🚀Skills and development
+## 🚀 Skills and Development
 
-![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 **Utilities**
 
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 **DevOps**
 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-**Development tools**
+**Development Tools**
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![PHPStorm](https://img.shields.io/badge/-PHPStorm-333333?style=flat&logo=phpstorm)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PHPStorm](https://img.shields.io/badge/PHPStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white)
 ---
 
 ## 📜 My Projects
 
-**Synclyn - https://github.com/Synclyn**
+**Synclyn - [GitHub](https://github.com/Synclyn)**
 
-## ⭐ Informations
+## ⭐ Information
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ceepkev77&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jkvn&show_icons=true&theme=radical)
