@@ -41,7 +41,7 @@
 
 ## 📜 My Projects
 
-**Synclyn - [GitHub](https://github.com/Synclyn)**
+**XO-6 - [Website](https://xo-6.studio)**
 
 ## ⭐ Information
 
