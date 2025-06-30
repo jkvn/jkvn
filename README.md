@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 Skills and Development
+## 🚀 Skills, Development, Learning
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -37,12 +37,3 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PHPStorm](https://img.shields.io/badge/PHPStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white)
----
-
-## 📜 My Projects
-
-**XO-6 - [Website](https://xo-6.studio)**
-
-## ⭐ Information
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jkvn&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)
